@@ -1,14 +1,63 @@
 [
   {
-    "nama": "Assyfa Latief",
-    "waktu": "4 mgg",
-    "meta": "Diikuti oleh 3,7 rb",
-    "foto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150"
+    "nama": "Joe Biden",
+    "waktu": "2 mgg",
+    "meta": "Presiden Amerika Serikat",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/150px-Joe_Biden_presidential_portrait.jpg"
   },
   {
-    "nama": "Zexosha",
-    "waktu": "15 mgg",
-    "meta": "Diikuti oleh 5,1 rb",
-    "foto": "https://images.unsplash.com/photo-1531123897727-8f129e16fd3c?w=150"
+    "nama": "Vladimir Putin",
+    "waktu": "5 mgg",
+    "meta": "Presiden Rusia",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vladimir_Putin_official_portrait.jpg/150px-Vladimir_Putin_official_portrait.jpg"
+  },
+  {
+    "nama": "Xi Jinping",
+    "waktu": "1 bln",
+    "meta": "Presiden Tiongkok",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Xi_Jinping_2019.jpg/150px-Xi_Jinping_2019.jpg"
+  },
+  {
+    "nama": "Prabowo Subianto",
+    "waktu": "1 mgg",
+    "meta": "Presiden Indonesia",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Prabowo_Subianto_official_portrait.jpg/150px-Prabowo_Subianto_official_portrait.jpg"
+  },
+  {
+    "nama": "Emmanuel Macron",
+    "waktu": "3 mgg",
+    "meta": "Presiden Prancis",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Emmanuel_Macron_official_portrait.jpg/150px-Emmanuel_Macron_official_portrait.jpg"
+  },
+  {
+    "nama": "Narendra Modi",
+    "waktu": "6 mgg",
+    "meta": "Perdana Menteri India",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/PM_Modi_2021.jpg/150px-PM_Modi_2021.jpg"
+  },
+  {
+    "nama": "Olaf Scholz",
+    "waktu": "2 bln",
+    "meta": "Kanselir Jerman",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Olaf_Scholz_2021.jpg/150px-Olaf_Scholz_2021.jpg"
+  },
+  {
+    "nama": "Recep Tayyip Erdoğan",
+    "waktu": "4 mgg",
+    "meta": "Presiden Turki",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Recep_Tayyip_Erdo%C7%9Fan_portrait.jpg/150px-Recep_Tayyip_Erdo%C7%9Fan_portrait.jpg"
+  },
+  {
+    "nama": "Fumio Kishida",
+    "waktu": "12 mgg",
+    "meta": "Perdana Menteri Jepang",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fumio_Kishida_2021.jpg/150px-Fumio_Kishida_2021.jpg"
+  },
+  {
+    "nama": "Yoon Suk-yeol",
+    "waktu": "8 mgg",
+    "meta": "Presiden Korea Selatan",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Yoon_Suk-yeol_official_portrait.jpg/150px-Yoon_Suk-yeol_official_portrait.jpg"
   }
 ]
+
