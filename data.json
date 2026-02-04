@@ -9,49 +9,49 @@
     "nama": "Vladimir Putin",
     "waktu": "5 mgg",
     "meta": "Presiden Rusia",
-    "foto": "/img/putin.jpg"
+    "foto": "img/putin.jpg"
   },
   {
     "nama": "Xi Jinping",
     "waktu": "1 bln",
     "meta": "Presiden Tiongkok",
-    "foto": "/img/koh_jin.jpg"
+    "foto": "img/koh_jin.jpg"
   },
   {
     "nama": "Prabowo Subianto",
     "waktu": "1 mgg",
     "meta": "Presiden Indonesia",
-    "foto": "/img/wowo.jpg"
+    "foto": "img/wowo.jpg"
   },
   {
     "nama": "Emmanuel Macron",
     "waktu": "3 mgg",
     "meta": "Presiden Prancis",
-    "foto": "/img/jagung.jpg"
+    "foto": "img/jagung.jpg"
   },
   {
     "nama": "Narendra Modi",
     "waktu": "6 mgg",
     "meta": "Perdana Menteri India",
-    "foto": "/img/prindavan.jpg"
+    "foto": "img/prindavan.jpg"
   },
   {
     "nama": "Recep Tayyip Erdoğan",
     "waktu": "4 mgg",
     "meta": "Presiden Turki",
-    "foto": "/img/Togan.jpg"
+    "foto": "img/Togan.jpg"
   },
   {
     "nama": "Sanae Takaichi",
     "waktu": "12 mgg",
     "meta": "Perdana Menteri Jepang",
-    "foto": "/img/Sanae_Takaichi.jpg"
+    "foto": "img/Sanae_Takaichi.jpg"
   },
   {
     "nama": "Kim Jong-un",
     "waktu": "8 mgg",
     "meta": "Presiden Korea Utara",
-    "foto": "/img/kim.jpg"
+    "foto": "img/kim.jpg"
   }
 ]
 
