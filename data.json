@@ -3,61 +3,55 @@
     "nama": "Donald Trump",
     "waktu": "2 mgg",
     "meta": "Presiden Amerika Serikat",
-    "foto": "https://id.wikiquote.org/wiki/Berkas:Donald_Trump_by_Gage_Skidmore.jpg"
+    "foto": "/img/bebek.jpg"
   },
   {
     "nama": "Vladimir Putin",
     "waktu": "5 mgg",
     "meta": "Presiden Rusia",
-    "foto": "https://id.wikiquote.org/wiki/Berkas:Putin_with_flag_of_Russia.jpg"
+    "foto": "/img/putin.jpg"
   },
   {
     "nama": "Xi Jinping",
     "waktu": "1 bln",
     "meta": "Presiden Tiongkok",
-    "foto": "https://id.wikiquote.org/wiki/Berkas:Xi_Jinping_March_2017.jpg"
+    "foto": "/img/koh_jin.jpg"
   },
   {
     "nama": "Prabowo Subianto",
     "waktu": "1 mgg",
     "meta": "Presiden Indonesia",
-    "foto": "https://id.wikiquote.org/wiki/Berkas:Prabowo_Subianto,_Candidate_for_Indonesia%27s_President_in_2024.jpg"
+    "foto": "/img/wowo.jpg"
   },
   {
     "nama": "Emmanuel Macron",
     "waktu": "3 mgg",
     "meta": "Presiden Prancis",
-    "foto": "https://id.wikiquote.org/wiki/Berkas:Emmanuel_Macron_February_2025.jpg"
+    "foto": "/img/jagung.jpg"
   },
   {
     "nama": "Narendra Modi",
     "waktu": "6 mgg",
     "meta": "Perdana Menteri India",
-    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Prime_Minister_of_India_Narendra_Modi.jpg"
-  },
-  {
-    "nama": "Olaf Scholz",
-    "waktu": "2 bln",
-    "meta": "Kanselir Jerman",
-    "foto": "https://id.wikipedia.org/wiki/Berkas:Olaf_Scholz_September_2024.jpg"
+    "foto": "/img/prindavan.jpg"
   },
   {
     "nama": "Recep Tayyip Erdoğan",
     "waktu": "4 mgg",
     "meta": "Presiden Turki",
-    "foto": "https://id.wikipedia.org/wiki/Berkas:Recep_Tayyip_Erdo%C4%9Fan_2025_(cropped).jpg"
+    "foto": "/img/Togan.jpg"
   },
   {
     "nama": "Sanae Takaichi",
     "waktu": "12 mgg",
     "meta": "Perdana Menteri Jepang",
-    "foto": "https://id.wikipedia.org/wiki/Berkas:Sanae_Takaichi_2025.jpg"
+    "foto": "/img/Sanae_Takaichi.jpg"
   },
   {
     "nama": "Kim Jong-un",
     "waktu": "8 mgg",
     "meta": "Presiden Korea Utara",
-    "foto": "https://id.wikipedia.org/wiki/Berkas:Kim_Jong-un_(2025).jpg"
+    "foto": "/img/kim.jpg"
   }
 ]
 
